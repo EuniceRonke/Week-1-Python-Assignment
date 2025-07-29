@@ -1,0 +1,16 @@
+# Print numbers 0 to 4
+for i in range(5):
+    print(i)
+
+unique_numbers = {1, 2, 2, 3, 4} 
+print(unique_numbers)
+student_info = {"name": "Charlie", "age": 21, "grade": "A"}
+print(student_info["name"])
+import math
+print(math.sqrt(16))
+def chech_even_odd(number):
+    if number % 2 ==0:
+        print(number, "is even")
+    else:
+        print(number, "is odd")
+        print(check_even_odd(11))

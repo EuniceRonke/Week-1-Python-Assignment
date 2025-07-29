@@ -1,0 +1,10 @@
+# Shopping_list = ["Milk", "eggs", "Bread", "butter" ]
+# print(Shopping_list)
+# a = 10
+# b = 20
+# c = 30
+# print(a<b and b<c)
+# print(a<5 or a<4)
+a = 10
+b = 20
+print(not (a<b))

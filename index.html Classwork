@@ -1,0 +1,24 @@
+<!DOCTYPE html> <html>
+    <head>
+        <title>My Web Page</title>
+        <link rel="icon" href="">
+    </head><body>
+        <h1>My First Web Page</h1>
+        <p>This is a simple Web Page</p>
+        <p>Welcome to my very first webpage</p>
+        <a href="https://google.com">visit google</a>
+        <h3>Un-ordered list</h3>
+        <ul>
+            <li>Software Engineering</li>
+            <li>Web development</li>
+        </ul>
+        <h3>Ordered list</h3>
+        <ol type="1" start="100"> 
+            <li>Database</li>
+            <li>Enterpreneur</li>
+        </ol>
+        <img src="sebastien-gabriel--IMlv9Jlb24-unsplash(1).jpg" alt="Image of Sunset" width="400" height="300">
+        
+    
+    </body>
+</html>

@@ -1,0 +1,14 @@
+#Array: [5, 10, 15,20, 25]
+arr = [10, 20, 30, 40, 50]
+print(arr[2])
+# Update
+arr[2] = 55
+# print(arr[2])
+arr.append(60)
+print(arr)
+# Insert at a position
+arr.insert(2, 25)
+arr.pop(3)
+print(arr)
+if 10 in arr:
+    print("Found 10")
